@@ -1,3 +1,3 @@
-#EXP-Django-Project
+# EXP-Django-Project
 
 (En cours de développement...)
