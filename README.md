@@ -1,4 +1,3 @@
-# Backend-Project-Django-EXP
+#EXP-Django-Project
 
-
-(En cours...)
+(En cours de développement...)
